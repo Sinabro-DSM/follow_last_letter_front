@@ -1,0 +1,10 @@
+.contest-word {
+    font-size: 2.5em;
+    margin-top: 15px;
+    text-align: center;
+    width: 50rem;
+}
+
+.contest-wrong-word {
+    text-decoration: line-through;
+}

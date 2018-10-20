@@ -1,0 +1,20 @@
+.record-btn {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background-color: red;
+    border: 5px solid black;
+    box-shadow: 0 9px #999;
+    outline: none;
+    margin: 0 auto;
+}
+
+.record-btn:hover {
+    background-color: #ad0000;
+    cursor: pointer;
+}
+
+.record-btn:active {
+    box-shadow: 0 4px #666;
+    transform: translateY(5px);
+}
